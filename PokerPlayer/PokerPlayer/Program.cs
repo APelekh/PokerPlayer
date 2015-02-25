@@ -333,9 +333,7 @@ namespace PokerPlayer
             else { return false; }
         }
     }
-    //Guides to pasting your Deck and Card class
 
-    //  *****Deck Class Start*****
     /// <summary>
     /// Class for deck of cards
     /// </summary>
@@ -441,9 +439,6 @@ namespace PokerPlayer
         }
     }
 
-    //  *****Deck Class End*******
-
-    //  *****Card Class Start*****
     /// <summary>
     /// Class for card with rank and suit properties
     /// </summary>
@@ -480,5 +475,4 @@ namespace PokerPlayer
         Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten, Jack, Queen, King, Ace
     }
 
-    //  *****Card Class End*******
 }
